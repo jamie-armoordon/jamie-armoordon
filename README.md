@@ -11,7 +11,6 @@ Full Stack Developer & Automotive Specialist with a passion for creating efficie
 
 ## 🔭 Current Projects
 - Personal Portfolio Website: [jamiearmoordon.co.uk](https://jamiearmoordon.co.uk)
-- [Add your other notable projects here]
 
 ## 🌱 Currently Learning
 - Advanced React Patterns
