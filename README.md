@@ -21,7 +21,6 @@ Full Stack Developer & Automotive Specialist with a passion for creating efficie
 ## 💼 Professional Experience
 - Full Stack Development
 - Automotive Engineering
-- [Add other relevant experience]
 
 ## 📫 How to Reach Me
 - Email: contact@jamiearmoordon.co.uk
